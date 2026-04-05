@@ -1,9 +1,8 @@
-<h1>Hi, I'm Renee, a Healthcare IT Professional</h1>
+<h1>Hi, I'm Renee, a IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Create a Resource Group and upload a file in that Resource Group](https://github.com/sprinklestitchco/resource-group)
   - [How To Remote Desktop to an Azure Virtual Machine](https://github.com/sprinklestitchco/remote-desktop)
 
 <h2>🤳Connect with me:</h2>
