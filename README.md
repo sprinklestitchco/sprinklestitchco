@@ -1,5 +1,10 @@
 <h1>Hi, I'm Renee, a IT Professional</h1>
 
+<p>  IT Support & Healthcare Revenue Cycle Specialist with 10+ years in healthcare operations.
+Completed training through CourseCareers with hands-on experience in troubleshooting, systems, and customer support.
+Transitioning into healthcare IT with a focus on efficiency, data accuracy, and system optimization.
+<p>
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
