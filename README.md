@@ -2,11 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/sprinklestitchco/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Create a Resource Group and upload a file in that Resource Group](https://github.com/sprinklestitchco/resource-group)
-
+  - [How To Remote Desktop to an Azure Virtual Machine](https://github.com/sprinklestitchco/remote-desktop)
 
 <h2>🤳Connect with me:</h2>
 
